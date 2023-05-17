@@ -32,7 +32,7 @@ header {
 
 .nav__links {
   list-style: none;
-  padding-right: 100px;
+  align-items: center;
 }
 
 .nav__links li {
